@@ -1,0 +1,7 @@
+{
+  "name": "Tourestea",
+  "description": "A community-driven platform for tourists to share honest hotel, flight, and travel experiences with AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
